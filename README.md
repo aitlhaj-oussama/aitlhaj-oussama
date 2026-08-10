@@ -6,12 +6,12 @@
   <br><br>
   
   <!-- اسمك مع تأثير كتابي احترافي -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=OUSSAMA+AIT+LHAJ;Data+Analyst;Turning+Data+into+Insights;From+Data+to+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=OUSSAMA+AIT+LHAJ;Data+Analytics+Student;Turning+Data+into+Insights;From+Data+to+Decisions" alt="Typing SVG" />
   
   <br>
   
   <!-- شارات احترافية -->
-  <img src="https://img.shields.io/badge/Data%20Analyst-2E9EF7?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-2E9EF7?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
@@ -22,14 +22,14 @@
 
 ## 👨‍💻 **About Me**
 
-🎓 **Licence en Analyse de Données** | Passionné par la **Data Science** et le **Business Intelligence**  
+🎓 **Étudiant en 3ème année Analyse de Données** à la **Faculté des Sciences Appliquées, Ait Melloul**  
 
-Je suis un **Data Analyst** avec une solide formation en analyse de données, statistiques et visualisation. Mon objectif est de transformer des données brutes en **insights exploitables** pour aider les entreprises à prendre de meilleures décisions.
+Passionné par l'analyse de données, la programmation et le machine learning. Je transforme les données brutes en **insights exploitables** pour aider à prendre de meilleures décisions.
 
-- 🔍 **Intérêts :** Data Mining, Machine Learning, Data Visualization
+- 🔍 **Intérêts :** Data Analysis, Machine Learning, Data Visualization, Business Intelligence
 - 🛠️ **Compétences :** Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau
-- 🌱 **En apprentissage :** Cloud Computing (AWS/Azure), Big Data
-- ⚽ **Hobby :** Football | Statistiques footballistiques avec Python
+- 🌱 **En apprentissage :** Cloud Computing, Big Data, Deep Learning
+- ⚽ **Hobby :** Football | Analyse de données footballistiques
 
 ---
 
@@ -42,7 +42,6 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   
   <!-- BI & Visualization -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
@@ -52,7 +51,6 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   
   <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -67,6 +65,10 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   
+  <!-- Algorithms & Data Structures -->
+  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=datastructures&logoColor=white" />
+  
 </p>
 
 ---
@@ -74,12 +76,12 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OUSSAMA-AIT-LHAJ&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUSSAMA-AIT-LHAJ&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aitlhaj-oussama&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitlhaj-oussama&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OUSSAMA-AIT-LHAJ&theme=github-dark-blue&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aitlhaj-oussama&theme=github-dark-blue&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -90,10 +92,10 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [📊 Sales Dashboard](https://github.com/your-repo) | Interactive Power BI dashboard for sales analytics | Power BI, DAX, SQL |
-| [🐍 Data Cleaning Tool](https://github.com/your-repo) | Automated data preprocessing pipeline | Python, Pandas, NumPy |
-| [📈 Football Stats Analysis](https://github.com/your-repo) | Analysis of football player performance | Python, Matplotlib, Seaborn |
-| [🗄️ SQL Portfolio](https://github.com/your-repo) | Collection of SQL queries and optimizations | PostgreSQL, MySQL |
+| [📊 Sales Dashboard](https://github.com/aitlhaj-oussama/your-repo) | Interactive dashboard for sales analytics | Power BI, DAX, SQL |
+| [🐍 Data Cleaning Tool](https://github.com/aitlhaj-oussama/your-repo) | Automated data preprocessing pipeline | Python, Pandas, NumPy |
+| [📈 Football Stats Analysis](https://github.com/aitlhaj-oussama/your-repo) | Analysis of football player performance | Python, Matplotlib, Seaborn |
+| [🗄️ SQL Portfolio](https://github.com/aitlhaj-oussama/your-repo) | Collection of SQL queries and optimizations | PostgreSQL, MySQL |
 
 ---
 
@@ -101,7 +103,7 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
 
 > *"I analyze football data because every match tells a story!"*
 
-- 🏆 Favorite Team: **Real Madrid CF** *(اختر فريقك)*
+- 🏆 Favorite Team: **Real Madrid CF** *(اختر فريقك المفضل)*
 - 📊 I love combining **Python & Power BI** to analyze:
   - Player performance metrics
   - Match statistics
@@ -119,7 +121,7 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
   <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/OUSSAMA-AIT-LHAJ">
+  <a href="https://github.com/aitlhaj-oussama">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-profile">
@@ -135,7 +137,7 @@ Je suis un **Data Analyst** avec une solide formation en analyse de données, st
 ## 📈 **Profile Views**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OUSSAMA-AIT-LHAJ&style=flat-square&color=2E9EF7&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=aitlhaj-oussama&style=flat-square&color=2E9EF7&label=Profile+Views" />
 </p>
 
 ---
