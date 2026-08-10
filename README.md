@@ -22,13 +22,13 @@
 
 ## 👨‍💻 **About Me**
 
-🎓 **Junior Data Analyst** passionate about **Data Analytics, Programming, and Machine Learning**
+🎓 **Junior Data Analyst** passionate about **Data Analytics, Business Intelligence, and Data Visualization**
 
 I'm a data enthusiast with a strong foundation in data analysis, statistics, and visualization. My goal is to transform raw data into **actionable insights** that help businesses make better decisions.
 
-- 🔍 **Interests:** Data Analysis, Machine Learning, Data Visualization, Business Intelligence
-- 🛠️ **Skills:** Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau
-- 🌱 **Currently Learning:** Cloud Computing, Big Data, Deep Learning
+- 🔍 **Interests:** Data Analysis, Business Intelligence, Data Visualization
+- 🛠️ **Skills:** Python (Pandas, NumPy), SQL, Power BI, Tableau, Excel
+- 🌱 **Currently Learning:** Cloud Computing, Big Data
 - ⚽ **Hobby:** Football | Football Data Analytics with Python
 
 ---
@@ -131,7 +131,7 @@ I'm a data enthusiast with a strong foundation in data analysis, statistics, and
 
 <div align="center">
   
-  ### *"Data is the new oil, and analysis is the refinery"* 🛢️📊
+  ### *"Empowering decisions through data-driven insights."* 📊
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F4dHkwdXVlenRqZnJza2dheW01MnQwNjZqN2xpdXJzOWZ0MTVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="60%" alt="Data Analysis GIF"/>
   
