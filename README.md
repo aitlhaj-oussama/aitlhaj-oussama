@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Professional Data Analytics Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Data Analytics Banner"/>
+  <!-- Professional Data Banner -->
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/f7c3a2bf8ae1b4b927467ded99787c07.gif" width="100%" alt="Data Analytics"/>
   
   <br><br>
   
@@ -133,6 +133,6 @@ I'm a data enthusiast with a strong foundation in data analysis, statistics, and
   
   ### *"Empowering decisions through data-driven insights."* 📊
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F4dHkwdXVlenRqZnJza2dheW01MnQwNjZqN2xpdXJzOWZ0MTVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="60%" alt="Data Analysis GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJycXU3dGNhbnZ4dW1hY2FwdG56aHpiZ2w0b2k0ZGQ4dzU4d2xydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE6Gf7FwLdZY9fy/giphy.gif" width="50%" alt="Data Analysis"/>
   
 </div>
