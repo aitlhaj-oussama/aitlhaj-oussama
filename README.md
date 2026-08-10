@@ -1,17 +1,17 @@
 <div align="center">
   
-  <!-- Banner احترافي لتحليل البيانات -->
+  <!-- Professional Data Analytics Banner -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Data Analytics Banner"/>
   
   <br><br>
   
-  <!-- اسمك مع تأثير كتابي احترافي -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=OUSSAMA+AIT+LHAJ;Data+Analytics+Student;Turning+Data+into+Insights;From+Data+to+Decisions" alt="Typing SVG" />
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=OUSSAMA+AIT+LHAJ;Junior+Data+Analyst;Turning+Data+into+Insights;From+Data+to+Decisions" alt="Typing SVG" />
   
   <br>
   
-  <!-- شارات احترافية -->
-  <img src="https://img.shields.io/badge/Data%20Analytics-2E9EF7?style=for-the-badge&logo=databricks&logoColor=white" />
+  <!-- Professional Badges -->
+  <img src="https://img.shields.io/badge/Junior%20Data%20Analyst-2E9EF7?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
@@ -22,14 +22,14 @@
 
 ## 👨‍💻 **About Me**
 
-🎓 **Étudiant en 3ème année Analyse de Données** à la **Faculté des Sciences Appliquées, Ait Melloul**  
+🎓 **Junior Data Analyst** passionate about **Data Analytics, Programming, and Machine Learning**
 
-Passionné par l'analyse de données, la programmation et le machine learning. Je transforme les données brutes en **insights exploitables** pour aider à prendre de meilleures décisions.
+I'm a data enthusiast with a strong foundation in data analysis, statistics, and visualization. My goal is to transform raw data into **actionable insights** that help businesses make better decisions.
 
-- 🔍 **Intérêts :** Data Analysis, Machine Learning, Data Visualization, Business Intelligence
-- 🛠️ **Compétences :** Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau
-- 🌱 **En apprentissage :** Cloud Computing, Big Data, Deep Learning
-- ⚽ **Hobby :** Football | Analyse de données footballistiques
+- 🔍 **Interests:** Data Analysis, Machine Learning, Data Visualization, Business Intelligence
+- 🛠️ **Skills:** Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau
+- 🌱 **Currently Learning:** Cloud Computing, Big Data, Deep Learning
+- ⚽ **Hobby:** Football | Football Data Analytics with Python
 
 ---
 
@@ -76,39 +76,26 @@ Passionné par l'analyse de données, la programmation et le machine learning. J
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aitlhaj-oussama&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitlhaj-oussama&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aitlhaj-oussama&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitlhaj-oussama&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&langs_count=8" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aitlhaj-oussama&theme=github-dark-blue&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aitlhaj-oussama&theme=github-dark-blue&hide_border=true" width="60%" />
 </p>
-
----
-
-## 🚀 **Featured Projects**
-
-<!-- استبدل الروابط بمشاريعك الحقيقية -->
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [📊 Sales Dashboard](https://github.com/aitlhaj-oussama/your-repo) | Interactive dashboard for sales analytics | Power BI, DAX, SQL |
-| [🐍 Data Cleaning Tool](https://github.com/aitlhaj-oussama/your-repo) | Automated data preprocessing pipeline | Python, Pandas, NumPy |
-| [📈 Football Stats Analysis](https://github.com/aitlhaj-oussama/your-repo) | Analysis of football player performance | Python, Matplotlib, Seaborn |
-| [🗄️ SQL Portfolio](https://github.com/aitlhaj-oussama/your-repo) | Collection of SQL queries and optimizations | PostgreSQL, MySQL |
 
 ---
 
 ## ⚽ **Football + Data = ❤️**
 
-> *"I analyze football data because every match tells a story!"*
+> *"Every football match tells a story, and I love analyzing it with data!"*
 
-- 🏆 Favorite Team: **Real Madrid CF** *(اختر فريقك المفضل)*
-- 📊 I love combining **Python & Power BI** to analyze:
+- 🏆 Favorite Team: **Real Madrid CF**
+- 📊 I enjoy combining **Python & Power BI** to analyze:
   - Player performance metrics
-  - Match statistics
+  - Match statistics & patterns
   - Team strategies
-  - League standings
+  - League standings & trends
 
 ---
 
