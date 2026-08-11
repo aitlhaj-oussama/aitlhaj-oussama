@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Professional Data Banner -->
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/f7c3a2bf8ae1b4b927467ded99787c07.gif" width="100%" alt="Data Analytics"/>
+  <!-- Professional Data Analytics Banner -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F1ZG9zeDM0dTVoMnFhNmo4c2U4dHoyN2M5bWZ4dGdubGZldGdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE6Gf7FwLdZY9fy/giphy.gif" width="100%" alt="Data Analytics Banner"/>
   
   <br><br>
   
@@ -133,6 +133,6 @@ I'm a data enthusiast with a strong foundation in data analysis, statistics, and
   
   ### *"Empowering decisions through data-driven insights."* 📊
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJycXU3dGNhbnZ4dW1hY2FwdG56aHpiZ2w0b2k0ZGQ4dzU4d2xydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE6Gf7FwLdZY9fy/giphy.gif" width="50%" alt="Data Analysis"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1a2h1aHk4aTRsaHZkbHB6bW54dWhmdTlncDkxajV1YzF3b3I2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE6Gf7FwLdZY9fy/giphy.gif" width="50%" alt="Data Analysis"/>
   
 </div>
